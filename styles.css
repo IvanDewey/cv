@@ -1,0 +1,66 @@
+* {
+    font-family: Roboto, arial;
+}
+
+.col-sm-3 {
+    font-size: large;
+    background-color: #494D5F !important
+}
+
+#fotocv {
+    width: 60%;
+}
+
+#barraNav {
+    background-color: #494D5F !important;
+}
+
+hr {
+    border: 0px;
+}
+
+
+#columna9 {
+    padding: 30px;
+    background-color: #E5EAF5 !important;
+}
+
+.bi {
+    color: #9b9b9b;
+    margin-right: 2%;
+}
+
+.bi.bi-circle-fill{
+  float: right;
+}
+
+.bi.bi-circle{
+ float: right;
+
+}
+
+span {
+    float: right;
+}
+
+.switch {
+    background: #494D5F;
+    border-radius: 10px;
+    border: none;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+}
+
+.bi.bi-palette-fill {
+    color: white !important;
+}
+
+.color {
+    background: #202020 !important;
+    
+}
+
+.nav-link.text-white {
+    margin-right: 5%;
+}
